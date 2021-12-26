@@ -1,4 +1,4 @@
-(kicad_pcb (version 20210623) (generator pcbnew)
+(kicad_pcb (version 20211014) (generator pcbnew)
 
   (general
     (thickness 1.70636)
@@ -31,7 +31,7 @@
     (stackup
       (layer "F.SilkS" (type "Top Silk Screen") (color "White") (material "Liquid Photo"))
       (layer "F.Paste" (type "Top Solder Paste"))
-      (layer "F.Mask" (type "Top Solder Mask") (color "#4E1D5E") (thickness 0.0254) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
+      (layer "F.Mask" (type "Top Solder Mask") (color "#4E1D5ED4") (thickness 0.0254) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
       (layer "F.Cu" (type "copper") (thickness 0.04318))
       (layer "dielectric 1" (type "prepreg") (thickness 0.1702) (material "FR408-HR") (epsilon_r 3.7) (loss_tangent 0.0091))
       (layer "In1.Cu" (type "copper") (thickness 0.0175))
@@ -39,7 +39,7 @@
       (layer "In2.Cu" (type "copper") (thickness 0.0175))
       (layer "dielectric 3" (type "prepreg") (thickness 0.1702) (material "FR408-HR") (epsilon_r 3.7) (loss_tangent 0.0091))
       (layer "B.Cu" (type "copper") (thickness 0.04318))
-      (layer "B.Mask" (type "Bottom Solder Mask") (color "#4E1D5E") (thickness 0.0254) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
+      (layer "B.Mask" (type "Bottom Solder Mask") (color "#4E1D5ED4") (thickness 0.0254) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
       (layer "B.Paste" (type "Bottom Solder Paste"))
       (layer "B.SilkS" (type "Bottom Silk Screen") (color "White") (material "Liquid Photo"))
       (copper_finish "Immersion gold")
